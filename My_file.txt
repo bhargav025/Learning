@@ -7,3 +7,9 @@ Git is a free and open source distributed version control system designed to han
 
 Python:
 Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances
+
+
+
+
+Ref:
+https://www.analyticsvidhya.com/blog/2021/08/effective-data-visualization-techniques-in-data-science-using-python/
