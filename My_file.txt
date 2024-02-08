@@ -4,3 +4,6 @@ Complete Tasks Faster with Contextualized AI Coding Assistance Across Workflows.
 
 Git:
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
+
+Python:
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances
